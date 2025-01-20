@@ -17,10 +17,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][linkedin]
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][github]
 
 [linkedin]: https://linkedin.com/in/rasmus-mark-mortensen-7b46b122b
-[github]: https://github.com/?????????
 
 
 <!--
